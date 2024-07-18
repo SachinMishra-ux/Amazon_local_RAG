@@ -1,0 +1,10 @@
+pypdf
+langchain
+langchain-community
+sentence-transformers
+streamlit
+faiss-cpu
+faiss-gpu
+boto3
+sentence-transformers
+awscli
